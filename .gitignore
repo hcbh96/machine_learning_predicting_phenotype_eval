@@ -1,4 +1,5 @@
 *.RDS
 *.RDATA
 
-data/*
+data/
+S288C_reference_genome_R62-1-1_20090218/
